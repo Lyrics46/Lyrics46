@@ -27,8 +27,8 @@ def main():
             w.truncate()
             w.write(sentence)
 
-        os.system("python /code/main.py --cfg cfg/eval_bird.yml --gpu 0")
-        imagepath='/models/bird_AttnGAN2/example_captions/0_s_0_g2.png'
+        os.system("python ./code/main.py --cfg cfg/eval_bird.yml --gpu 0")
+        imagepath='./models/bird_AttnGAN2/example_captions/0_s_0_g2.png'
         img=Image.open(imagepath);
 
         st.image(img,caption=text)
