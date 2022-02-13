@@ -21,7 +21,7 @@ def main():
         sentence=translate(text)
 
         #将sentence写入txt中  清空写
-        textpath='/data/birds/example_captions.txt'
+        textpath='./data/birds/example_captions.txt'
         with codecs.open(textpath,'a','utf-8') as w:
             w.seek(0)
             w.truncate()
