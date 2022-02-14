@@ -21,7 +21,7 @@ streamlit 代码编写可参考：
 
 ## 两种运行方式
 
-- ### 在share.streamlit.io上 运行
+- ### 在share.streamlit.io上 运行(!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!该方式暂运行不了!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)
 
   ​	1.将该项目Fork至自己的github主页中
 
@@ -34,7 +34,7 @@ streamlit 代码编写可参考：
   ​	3.用github账号登录https://share.streamlit.io/，  选择New app->Paste GitHub URL->粘贴刚刚的app.py网址后Deploy!
 
   ​	Streamlit Cloud官方教程：	https://docs.streamlit.io/streamlit-cloud/get-started
-
+<!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!该方式暂运行不了!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!>
   
 
 - ### 本地运行
