@@ -60,8 +60,6 @@ streamlit 代码编写可参考：
 ## 目前网页运行效果
 
 ​			（待后期修改）
-
-![app1](.\READMEimg\app1.png)
-
-![app2](.\READMEimg\app2.png)
+  <img src=".\READMEimg\app1.png" alt="app1"  />
+  <img src=".\READMEimg\app2.png" alt="app2"  />
 
