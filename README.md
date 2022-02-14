@@ -25,11 +25,11 @@ streamlit 代码编写可参考：
 
   ​	1.将该项目Fork至自己的github主页中
 
-  <img src="E:\Attn-1\AttnGAN-master\READMEimg\fork.png" alt="fork" style="zoom: 50%;" />
+  <img src=".\READMEimg\fork.png" alt="fork" style="zoom: 50%;" />
 
   ​	2.找到自己github主页中的app.py文件，复制其网址
 
-  <img src="E:\Attn-1\AttnGAN-master\READMEimg\address.png" alt="address" style="zoom:50%;" />
+  <img src=".\READMEimg\address.png" alt="address" style="zoom:50%;" />
 
   ​	3.用github账号登录https://share.streamlit.io/，  选择New app->Paste GitHub URL->粘贴刚刚的app.py网址后Deploy!
 
@@ -55,13 +55,13 @@ streamlit 代码编写可参考：
   
   ​     3.在该目录下执行 streamlit run app.py，自动弹出网页
   
-  <img src="E:\Attn-1\AttnGAN-master\READMEimg\runapp.png" alt="runapp"  />
+  <img src=".\READMEimg\runapp.png" alt="runapp"  />
 
 ## 目前网页运行效果
 
 ​			（待后期修改）
 
-![app1](E:\Attn-1\AttnGAN-master\READMEimg\app1.png)
+![app1](.\READMEimg\app1.png)
 
-![app2](E:\Attn-1\AttnGAN-master\READMEimg\app2.png)
+![app2](.\READMEimg\app2.png)
 
